@@ -41,6 +41,8 @@
 #
 # After writing each step, restart the server and run test.py to test it.
 
+# This comment line is for testing for passphrase storage
+
 import http.server
 import requests
 import os
